@@ -35,7 +35,7 @@
 
 ## 📬 Let’s Connect
 
-- 📫 Email: [alvinagnoshin@example.com](mailto:Alvin@agnoshin.com)
+- 📫 Email: [Alvin@agnoshin.com](mailto:Alvin@agnoshin.com)
 
 ---
 

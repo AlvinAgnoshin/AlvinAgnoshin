@@ -50,5 +50,5 @@
 <p align="center">
   🚀 Let's build better systems. One commit at a time.  
   <br/>
-  <strong>Alvin Agnoshin</strong>
+  <strong>Alvin @ Agnoshin</strong>
 </p>

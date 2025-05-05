@@ -33,11 +33,6 @@
 
 ---
 
-## 📬 Let’s Connect
-
-- 📫 Email: [Alvin@agnoshin.com](mailto:Alvin@agnoshin.com)
-
----
 
 ## ⚡ A Little Extra
 
